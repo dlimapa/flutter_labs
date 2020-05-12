@@ -6,10 +6,9 @@ Repositório para projetos de laboratório de funcionalidades do Flutter.
 
 ## Conteúdo
 
-### Cockbook
+### Cookbook
 
 https://flutter.dev/docs/cookbook
-
 
 #### Persistência
 
@@ -23,6 +22,6 @@ https://flutter.dev/docs/cookbook
 
 https://codelabs.developers.google.com/
 
-### Flutter e Google Maps
+#### Flutter e Google Maps
 
 - https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/
